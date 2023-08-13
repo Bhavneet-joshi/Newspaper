@@ -47,5 +47,5 @@ The relationships between these tables are established to maintain data integrit
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/newspaper-app.git
-   cd newspaper-app
+   git clone https://github.com/Bhavneet-joshi/Newspaper.git
+   cd Newspaper
