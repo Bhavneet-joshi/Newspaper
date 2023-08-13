@@ -19,7 +19,7 @@
          <font>
             <Font size="18.0" />
          </font></Text>
-      <ImageView fitHeight="144.0" fitWidth="122.0" layoutX="121.0" layoutY="171.0" nodeOrientation="RIGHT_TO_LEFT" pickOnBounds="true" preserveRatio="true">
+      <ImageView fitHeight="116.0" fitWidth="122.0" layoutX="103.0" layoutY="181.0" nodeOrientation="RIGHT_TO_LEFT" pickOnBounds="true" preserveRatio="true" style="-fx-rotate: 90;">
          <image>
             <Image url="@DSC_0935%20(2).jpg" />
          </image>
