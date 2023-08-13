@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<?import javafx.scene.Cursor?>
 <?import javafx.scene.control.Label?>
 <?import javafx.scene.image.Image?>
 <?import javafx.scene.image.ImageView?>
@@ -14,19 +15,22 @@
             <Font name="Serif Bold" size="21.0" />
          </font>
       </Label>
-      <Text layoutX="40.0" layoutY="100.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Developed and designed by Shivam Keshri Under guidance of Mr. Rajesh K. Bansal" textAlignment="CENTER" wrappingWidth="468.50469970703125">
+      <Text layoutX="40.0" layoutY="100.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Developed and designed by bhavneet joshi Under guidance of Mr. Rajesh K. Bansal" textAlignment="CENTER" wrappingWidth="468.50469970703125">
          <font>
             <Font size="18.0" />
          </font></Text>
-      <ImageView fitHeight="144.0" fitWidth="122.0" layoutX="102.0" layoutY="159.0" pickOnBounds="true" preserveRatio="true">
+      <ImageView fitHeight="144.0" fitWidth="122.0" layoutX="121.0" layoutY="171.0" nodeOrientation="RIGHT_TO_LEFT" pickOnBounds="true" preserveRatio="true">
          <image>
-            <Image url="@DSC_0935%20(2).JPG" />
-         </image></ImageView>
+            <Image url="@DSC_0935%20(2).jpg" />
+         </image>
+         <cursor>
+            <Cursor fx:constant="HAND" />
+         </cursor></ImageView>
       <ImageView fitHeight="150.0" fitWidth="122.0" layoutX="322.0" layoutY="163.0" pickOnBounds="true" preserveRatio="true">
          <image>
             <Image url="@Rajesh%20Bansal.png" />
          </image></ImageView>
-      <Label layoutX="108.0" layoutY="318.0" text="Shivam Keshri">
+      <Label layoutX="108.0" layoutY="318.0" text="Bhavneet joshi">
          <font>
             <Font name="Times New Roman Bold Italic" size="18.0" />
          </font></Label>
