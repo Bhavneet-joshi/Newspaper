@@ -14,7 +14,7 @@
             <Font name="Serif Bold" size="21.0" />
          </font>
       </Label>
-      <Text layoutX="40.0" layoutY="100.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Developed and designed by Shivam Keshri Under guidance of Mr. Rajesh K. Bansal" textAlignment="CENTER" wrappingWidth="468.50469970703125">
+      <Text layoutX="40.0" layoutY="100.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Developed and designed by Bhavneeet Joshi Under guidance of Mr. Rajesh K. Bansal" textAlignment="CENTER" wrappingWidth="468.50469970703125">
          <font>
             <Font size="18.0" />
          </font></Text>
@@ -26,7 +26,7 @@
          <image>
             <Image url="@Rajesh%20Bansal.png" />
          </image></ImageView>
-      <Label layoutX="108.0" layoutY="318.0" text="Shivam Keshri">
+      <Label layoutX="108.0" layoutY="318.0" text="Bhavneeet Joshi">
          <font>
             <Font name="Times New Roman Bold Italic" size="18.0" />
          </font></Label>
